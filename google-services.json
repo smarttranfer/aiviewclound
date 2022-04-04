@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "876546678189",
+    "project_id": "sop-ps",
+    "storage_bucket": "sop-ps.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876546678189:android:8fa71bddd57dfc45429524",
+        "android_client_info": {
+          "package_name": "com.bkav.sop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876546678189-r4jtlju280jvj2vu1d94bgdjd2h3p4c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhtZzdG3I1wZFDnkb6wCdhkDrnUEcZAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876546678189-r4jtlju280jvj2vu1d94bgdjd2h3p4c2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876546678189-grk6m4l6qn69hlisiku46929mff6vpcu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bkav.sop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

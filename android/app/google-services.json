@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274593861968",
+    "project_id": "aiviewcloud",
+    "storage_bucket": "aiviewcloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274593861968:android:7d287c350b41b032cf9c55",
+        "android_client_info": {
+          "package_name": "com.bkav.sop.aiviewcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274593861968-q2tviephn4rvv8cuj6mk70p7ottcns0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2kNj0Q7dw36zl0VdDzCq-3icNSB2hdu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274593861968-q2tviephn4rvv8cuj6mk70p7ottcns0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
